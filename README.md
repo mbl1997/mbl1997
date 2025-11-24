@@ -33,3 +33,29 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" /> </p>
+
+<h2> 🌐 Contatos & Redes </h2>
+
+<p align="center">
+
+  <!-- Gmail -->
+  <a href="mailto: marianabianchini18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- Outlook -->
+  <a href="mailto:marianabianchini97@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mariana-bianchini-lima-1184b1129/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- Instagram 
+  <a href="https://instagram.com/seuuser" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>-->
+  </p>
+
