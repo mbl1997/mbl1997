@@ -36,7 +36,7 @@
 
 <h2> 🌐 Contatos & Redes </h2>
 
-<p align="center">
+<p>
 
   <!-- Gmail -->
   <a href="mailto: marianabianchini18@gmail.com" target="_blank">
