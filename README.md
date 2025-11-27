@@ -1,4 +1,4 @@
-<h1 align="center">💻 Mariana Bianchini Lima</h1> <p align="center"> Desenvolvedora Full Stack | UX/UI | Projetos Digitais | 190 Digital Inclusivo Brigada Militar </p>
+<h1 align="center">💻 Mariana Bianchini Lima</h1> <p align="center"> Desenvolvedora Full Stack | UX/UI | Projetos Digitais | Gestora de Projetos. </p>
 
 <h2> 🚀 Main Skills</h2>
 
